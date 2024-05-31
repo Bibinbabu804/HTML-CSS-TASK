@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-31.7%" y="-28.3%" width="163.3%" height="163.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="FInal-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-The_Faasos_UI_GAM" transform="translate(-59.000000, -977.000000)">
+            <g id="Group-4" transform="translate(101.000000, 1017.000000) scale(-1, 1) translate(-101.000000, -1017.000000) translate(71.000000, 987.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M31.9501483,26.0011531 C31.6234627,26.011973 31.312136,26.1424317 31.0753292,26.3677383 L24.4101429,32.7663092 C24.0661893,33.096676 23.9246549,33.5854689 24.0388721,34.0485031 C24.1530893,34.5115374 24.5056989,34.8784393 24.9638321,35.0109544 C25.4219653,35.1434696 25.9159932,35.0214578 26.2597585,34.6908951 L32.0001372,29.1837795 L37.7405155,34.6908951 C38.0843097,35.0212971 38.578256,35.1431892 39.0362896,35.0106557 C39.4943233,34.8781223 39.8468581,34.5112983 39.9610975,34.0483628 C40.075337,33.5854273 39.9339255,33.0967112 39.5901314,32.7663092 L32.9249451,26.3677383 C32.6631545,26.1184325 32.3113435,25.9861293 31.9501483,26.0011531 L31.9501483,26.0011531 Z" id="Path" fill="#2D282E" fill-rule="nonzero" transform="translate(32.000000, 30.531770) rotate(90.000000) translate(-32.000000, -30.531770) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

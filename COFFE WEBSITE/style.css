@@ -1,0 +1,437 @@
+*{ 
+   margin: 0%;
+}
+body{
+
+}
+
+header{
+    width: 100%;
+
+background-color: transparent;
+position: sticky;
+
+}
+#img1{
+    width: 100px;
+    height: 85px;
+    margin-left: 5%;
+    border-radius: 300px;
+}
+nav{
+    margin: -1%;
+    display: flex;
+    justify-content: space-between;
+
+}
+h3{
+    margin-top: 2%;
+    margin-left: 2%;
+    font-family: "Pacifico", cursive;
+
+}
+#i1{
+    color: black;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+ul li{
+    margin: 20px;
+    justify-content: space-between;
+    list-style: none;
+}
+a{
+    font-size: medium;
+text-decoration: none;
+color: rgb(15, 1, 1);
+font-family: inherit;
+}
+i{
+    color: rgba(0, 0, 0, 0.596);
+}
+.row{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(82, 7, 97);
+   
+}
+.col{
+    width: 100%;
+height: 600px;
+    color: rgb(168, 179, 26);
+}
+div h1{
+    position: absolute;
+    top: 25%;
+    left: 15.5%;
+}
+h1{
+    ;
+    color: rgb(235, 244, 252);
+}
+div p{
+    
+    position: absolute;
+    top: 45%;
+    left: ;
+}
+p{
+    font-size: small;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 15%;
+    
+    text-align: justify;
+}
+div #img2{
+width: 100px;
+margin-top: 23%;
+margin-left: 20%;
+
+}
+div #img3{
+    width: 100px;
+margin-top: 23%;
+margin-left: %;
+
+
+}
+
+div #img4{
+    width: 200px;
+    margin-left: 70%;
+    margin-top: -16.55%;
+    
+}
+.row3{
+    margin-top: -60%;
+    width: 100%;
+    height: 400px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+.col{
+    width: 300px;
+;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    justify-content: space-between;
+}
+#head2{
+    text-align: center;
+    color: blue;
+    margin-top: 15%;
+    margin-bottom: 65%;
+    
+}
+.col1{
+    margin: ;
+    top: 6%;
+    left: 0%;
+    font-family: "Poetsen One", sans-serif;
+}
+.col2{
+    top: 90%;
+    left: 20%;
+    font-family: "Poetsen One", sans-serif;
+}
+.col3{
+    left: 40%; 
+     top: 10%;
+     font-family: "Poetsen One", sans-serif;
+}
+.col4{
+    top: 90%;
+    left: 60%;
+    font-family: "Poetsen One", sans-serif;
+}
+.col5{
+    top: 10%;
+    left: 80%;
+    font-family: "Poetsen One", sans-serif;
+}
+#im1{
+    width: 50%;
+    margin: 40px;
+}
+.para{
+    color: blue;
+    font-size: 100%;
+    margin-top: 10%;
+    margin-left:30%;
+    text-align:justify
+    font-family: "Poetsen One", sans-serif;
+
+}
+.para1{
+    color: blue;
+    font-size: 100%;
+    margin-top: 3%;
+    margin-left:-3%;
+    text-align:justify
+
+}
+
+.para2{
+    color: blue;
+    font-size: 100%;
+    margin-top: 10%;
+    margin-left:-6%;
+    text-align:justify
+
+}
+
+.para3{
+    color: blue;
+    font-size: 100%;
+    margin-top: 3%;
+    margin-left:-10%;
+    text-align:justify
+
+}
+
+.para4{
+    color: blue;
+    font-size: 100%;
+    margin-top: 10%;
+    margin-left:5%;
+    text-align:justify
+
+}
+.paa{
+    color: black;
+    margin-top: 60px;
+    margin-left: -5%;
+    font-size: x-small;
+    text-align: justify;
+}
+.paa1{
+    color: black;
+margin-top: 80px;
+margin-left: 30%;
+font-size: x-small;
+text-align: justify;
+}
+.paa2{
+    color: black;
+margin-top: 80px;
+margin-left: 5%;
+font-size: x-small;
+text-align: justify;
+}
+#div1{
+    width: 100%;
+    height: 600px;
+    margin-top: 20%;
+    
+}
+h2{
+   margin-top: -33%;
+   margin-left: 32%;
+   font-size: 300%;
+   font-family: 'Times New Roman', Times, serif;
+}
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 28px;
+    margin-left: 37%;
+    margin-top: 1%;
+}
+input::placeholder{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    width: 400px;
+    height: 30px;
+    border-radius: 28px;
+    margin-left: 37%;
+    margin-top: 1%;
+    font-family: cursive;
+}
+.row5{
+    width: 100%;
+    height: 400px;
+    position: relative;
+    
+
+    
+}
+.colu{
+    width: 300px;
+    height: 300px;
+    background-color: bisque;
+    justify-content: ;
+    position: absolute;
+    
+   
+    
+}
+
+
+
+.co11{
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.co2{
+    
+    background-color: rgb(255, 255, 252);
+    margin-left: 40%;
+    margin-top: 5%;
+
+}
+.co3{
+ 
+   background-color: rgb(255, 255, 255);
+   margin-left: 70%;
+   margin-top: 5%;
+   
+}
+#why{
+    margin-top: 15%;
+}
+.image{
+    margin-left: 60px;
+}
+h6{
+    font-size: 130%;
+    font-style: oblique;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.note{
+    color: rgba(0, 0, 0, 0.644);
+    text-align: justify;
+    margin-top: 70px;
+}
+.row7{
+    width: 100%;
+    height: 650px;
+    position: relative;
+}
+.col9{
+
+}
+#dish{
+    font-size: 300%;
+    margin-top: 20%;
+    margin-left: 500px;
+    
+}
+
+.c1 img{
+    
+    width: 300px;
+   
+    
+}
+.c2 img{
+
+    width: 300px;
+    height: 200px;
+}
+.c3 img{
+   
+    width: 300px;
+}
+.c4 img{
+    
+    width: 300px;
+}
+.c5 img{
+    
+    width: 300px;
+    height: 200px;
+}
+.c6 img{
+    
+    width: 300px;
+}
+.cola{
+    
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin: 10%;
+
+}
+.c1{
+    margin-left: 100px;
+    mar
+}
+.c2{
+    margin-left: 500px;
+}
+.c3{
+    margin-left: 900px;
+    margin-top: px;
+    
+}
+.c4{
+    margin-left: 100px;
+    margin-top: 35%;
+}
+.c5{
+    margin-left: 500px;
+    margin-top: 35%;
+}
+.c6{
+    margin-left: 900px;
+margin-top: 35%;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    font-family: "Poetsen One", sans-serif;;
+    text-shadow: 40px;
+    color: rgba(1, 1, 15, 0.555);
+}
+.cola p{
+    color: rgba(0, 0, 0, 0.815);
+    margin-top: 110px;
+    text-align: justify;
+    margin-left: 0px;
+    font-style: italic;
+    
+}
+.cola img{
+    border-radius: 50px;
+}
+
+
+.row10{
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

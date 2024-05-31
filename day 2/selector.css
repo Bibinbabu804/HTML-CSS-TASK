@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+}
+
+
+
+
+
+
+
+#hoo{
+    color: aquamarine;
+}
+.cl{
+    color: blue;
+}
+#para{
+    color: brown;
+}
+p,h4{
+    font-family: Georgia, 'Times New Roman', Times, serif  ;
+    font-weight: 700;
+}
+button{
+    background-color: white;
+    color: black;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    
+}
+p::first-line{
+    color: brown;
+    font-size: larger;
+}
+p::first-letter{
+    color: blue;
+    font-size: medium;
+}

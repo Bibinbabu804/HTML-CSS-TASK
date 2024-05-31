@@ -1,0 +1,28 @@
+h1{
+    
+    width: 200;
+    height: 150;
+    background-color: yellow;
+    text-align: center;
+}
+div{
+    width: 300px ;
+    height: 600px;
+    background-color: rgb(241, 241, 30);
+    border: solid ;  
+    
+}
+h2{ color: black; 
+text-align: center;}
+h5{
+    
+    text-align: center;
+}
+button{
+    color: black;
+    text-align: center;
+    background-color: white;
+
+}
+
+

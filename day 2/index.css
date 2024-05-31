@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+}
+h2{ text-align: center;
+    text-decoration: underline;
+
+}
+div{
+    width: 359px;
+    height: 550px;
+    background-color: CYAN
+    ;
+    border: solid black;
+    border-radius: 30px;
+    float: left;
+    margin: 20px;
+}
+img{
+    width: 70%;
+    padding: 10px;
+border: 4px solid white;
+margin: 45px;
+border-radius: 50%;
+}
+h2{ text-align: center;
+    text-decoration: underline;
+
+}
+#he{
+    background-color: yellow;
+}
+#hea{
+    background-color: pink;
+}
+
+#head{
+    background-color: darkseagreen;;
+}
+p{
+    text-align: justify;
+}
+h1{
+    align-items: center;
+}
+
+
+
+
+
